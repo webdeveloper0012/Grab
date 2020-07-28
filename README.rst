@@ -130,7 +130,7 @@ Mailing list (mostly russian): http://groups.google.com/group/python-grab/
 Contribution
 ------------
 
-To report a bug please use GitHub issue tracker: https://github.com/lorien/grab/issues
+To report a bug please use GitHub issue tracker: https://github.com/webdeveloper0012/Grab/issues
 
 If you want to develop new feature in Grab please use issue tracker to
-describe what you want to do or contact me at lorien@lorien.name
+describe what you want to do or contact me at seniordeveloper436@gmail.com
